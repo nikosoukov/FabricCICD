@@ -17,8 +17,6 @@ Every entry follows the same shape: **prerequisites → numbered steps → valid
 | **Layer 5 — Secured environment** | 21–25 | Service principals, private links, in-network build agents, secrets and approvals, and audit. |
 | | **25 total** | |
 
-**Formats.** Word documents sit in `fabric-cicd/`. A markdown copy with the diagrams lives in [`fabric-cicd/markdown/`](fabric-cicd/markdown/) — ready to drop into a Git repository. LinkedIn-ready article HTML and feed pitches are in [`fabric-cicd/linkedin/`](fabric-cicd/linkedin/).
-
 ---
 
 ## The decision that shapes everything
